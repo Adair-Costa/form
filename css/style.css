@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: url(../../image/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: #fff;
+}
+
+.container1 {
+  background-color: #231212f1;
+  width: 450px;
+  height: auto;
+}
+
+.topLogo {
+  width: 185px;
+}
+
+.topLogo {
+  margin: 8px 0;
+}
+
+.btnSend {
+  color: #ff0043;
+  border: 1px solid #ff0043;
+}
+.btnSend:hover {
+  background-color: #ff0043;
+  color: #fff;
+}
+
+.fotter {
+  margin-top: 30px;
+  margin-bottom: -30px;
+}
+
+/*# sourceMappingURL=style.css.map */
